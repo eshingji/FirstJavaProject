@@ -30,6 +30,7 @@ public class FirstClass
         }
         System.out.println("\nDone.");
         System.out.println("Isn't that nifty?");
+        System.out.println("no lol");
 
 //        int a = 0;
 //        while (a < 100)
