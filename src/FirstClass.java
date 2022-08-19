@@ -29,6 +29,7 @@ public class FirstClass
             System.out.println(i+"");
         }
         System.out.println("\nDone.");
+        System.out.println("Isn't that nifty?");
 
 //        int a = 0;
 //        while (a < 100)
